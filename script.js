@@ -1,4 +1,4 @@
-let arr = ['|', '/', '-', '\\'];
+let arr = ['|  |  |', '/  /  /', '-  -  -', '\\  \\  \\'];
 let count = 0;
 
 setInterval(function () {
