@@ -1,8 +1,9 @@
 .prek {
-    font-size: 300px;
+    font-size: 3000%;
     color: brown;
     text-align: center;
 }
 body {
+    overflow:  hidden; 
     background-color: aqua;
 }
