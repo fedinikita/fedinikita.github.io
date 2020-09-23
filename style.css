@@ -8,10 +8,9 @@ body {
     margin: 0;
     
     color: #fff;
-    background: #ccc;
-    background-image: url('/images/back.jpg');
-    background-position: center;
-    
+    background: #ccc url("../images/back.jpg") center no-repeat;
+    background-size: cover;
+}
     font-family: 'Jura', sans-serif;
 }
 
@@ -51,7 +50,6 @@ h1 {
 .pic img {
     display: block;
     margin: 0 auto;
-    border-radius: 80px;
 }
 
 .social {
